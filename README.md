@@ -7,9 +7,9 @@ Jag har studerat handel- och administrationsprogrammet, men livet hade andra pla
 ---
 
 ## __3 snabba__  ##
-- Jag gilar att programmera
-- Jag gillar nudlar
-- Jag gillar mat 
+- Jag gilar att *programmera*
+- Jag gillar *nudlar*
+- Jag gillar *mat*
 ---
 ## __1 sak jag älskar__ ##
 # Det är min flickvän :) #
