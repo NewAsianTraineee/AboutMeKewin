@@ -3,7 +3,7 @@
 ## __Vem är jag?__ ##  
 Jag heter Kewin och jag bor hemma med min mamma och pappa och vår hund Dolly. Det finns inte jättemycket att berätta om mig. Jag är 21 år snart fyllda 22, mina hobbisar är nog att läsa koreansk manga. 
 
-Jag har studerat Handel och administrationsprogrammet men livet hade andra planer och därmed är anledning till jag går detta program.
+Jag har studerat handel och administrationsprogrammet,men livet hade andra planer och därmed är anledning till jag går detta program.
 
 ---
 
@@ -12,7 +12,7 @@ Jag har studerat Handel och administrationsprogrammet men livet hade andra plane
 - Jag gillar nudlar
 - Jag gillar mat 
 ---
-## __1 Sak jag älskar__ ##
+## __1 sak jag älskar__ ##
 # Det är min flickvän :) #
 ## Det var allt om mig 
 Ha en fortsatt fin dag! :)
